@@ -1,8 +1,4 @@
-feat: git_copyright running properly
+feat(project) Deleting teste.py
 
-This script is running.
-So this code can add a 
-copyright in the beggining
-of the python code, YAML
-file, dockerfile and
-jenkinsfile
+It was deleted the python
+file used to test a script.
