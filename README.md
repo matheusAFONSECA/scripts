@@ -3,11 +3,15 @@ Repository created to make scripts in bash and powershell to automate repetitive
 
 ## Table of Contents
 - [Overview](#overview)
+- [Git](#git)
 - [Images](#images)
     - [Rename and format image types](#rename-and-format-image-types)
+- [Python](#python)
 
 ## Overview
 This repository contains various Bash and Shell scripts designed to automate repetitive tasks. It is organized into different folders, each dedicated to specific types of tasks or programming languages.
+
+## GIT
 
 ## Images
 The `Images` directory is dedicated to storing scripts related to image processing tasks. 
@@ -29,3 +33,5 @@ To run the script that make this task you can use this command:
 
 `remember:` if you want to make this script executable, you need to use the command `chmod +x <file_name.sh>` to make it possible to run.
 
+
+## Python
