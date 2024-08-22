@@ -1,4 +1,7 @@
-feat(project) Deleting teste.py
+feat(project) Scrit to commit and to add copyright
 
-It was deleted the python
-file used to test a script.
+It was added two scripts. One of them is 
+dedicated to add, commit and push the
+changes made in the codes to the
+repository. The other one is dedicated
+to add copyright into codes.

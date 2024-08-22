@@ -4,14 +4,53 @@ Repository created to make scripts in bash and powershell to automate repetitive
 ## Table of Contents
 - [Overview](#overview)
 - [Git](#git)
+    - [Copyright](#copyright)
+    - [Commit](#commit)
 - [Images](#images)
     - [Rename and format image types](#rename-and-format-image-types)
 - [Python](#python)
+    - [Create and Activate Virtual Environment](#create-and-activate-virtual-environment)
 
 ## Overview
 This repository contains various Bash and Shell scripts designed to automate repetitive tasks. It is organized into different folders, each dedicated to specific types of tasks or programming languages.
 
-## GIT
+## Git
+
+The `Git` section includes scripts that automate key tasks related to Git operations.
+
+### Copyright
+
+This script automates the process of adding copyright information to your code files (YAML, python, jenkinsfile, dockerS). It scans the files and inserts the appropriate copyright header, ensuring that your code is properly attributed and protected.
+
+To run the script that make this task you can use this command:
+
+- **Windows:**
+```shell
+.\Git\git_copyright.ps1
+```
+
+- **Linux and macOS:**
+```bash
+./Git/git_copyright.sh
+```
+
+### Commit
+
+The commit script simplifies the process of committing changes to your Git repository. It allows you to automate the commit process by specifying files to include in the commit and uses a `message.txt` file where you can write the commit message. This helps maintain a consistent and organized history of changes in your repository.
+
+To run the script that make this task you can use this command:
+
+- **Windows:**
+```shell
+.\Git\git_commit.ps1
+```
+
+- **Linux and macOS:**
+```bash
+./Git/git_commit.sh
+```
+
+`remember:` if you want to make this script executable, you need to use the command `git config --global core.editor "nano"` to make it possible to edit, save and send the message wroted.
 
 ## Images
 The `Images` directory is dedicated to storing scripts related to image processing tasks. 
@@ -21,12 +60,12 @@ This includes scripts for converting image formats to `.png` and renaming files 
 
 To run the script that make this task you can use this command:
 
-- Windows:
+- **Windows:**
 ```shell
 .\images\rename_and_format_type_images.ps1
 ```
 
-- Linux and MAC:
+- **Linux and macOS:**
 ```bash
 ./images/rename_and_format_type_images.sh
 ```
@@ -35,3 +74,21 @@ To run the script that make this task you can use this command:
 
 
 ## Python
+
+The `Python` section includes scripts that automate key tasks related to Python operations.
+
+### Create and Activate Virtual Environment
+
+This script automates the process of creating and activating a virtual environment for Python projects. The virtual environment helps manage dependencies and isolate project-specific packages. If the virtual environment is already created, a warning is showed and the venv is activate.
+
+To run the script, use the following command based on your operating system:
+
+- **Windows:**
+```shell
+.\Python\create_and_activate_venv.ps1
+```
+
+- **Linux and macOS:**
+```bash
+./Python/create_and_activate_venv.sh
+```
