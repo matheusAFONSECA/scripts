@@ -1,0 +1,8 @@
+feat: Testing git_commit.ps1
+
+Using the script 
+dedicated to: git add,
+git commit and git push
+the modifications made
+and sent it to the
+repository.
