@@ -1,8 +1,8 @@
-feat: Testing git_commit.ps1
+feat: git_copyright running properly
 
-Using the script 
-dedicated to: git add,
-git commit and git push
-the modifications made
-and sent it to the
-repository.
+This script is running.
+So this code can add a 
+copyright in the beggining
+of the python code, YAML
+file, dockerfile and
+jenkinsfile
