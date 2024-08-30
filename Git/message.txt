@@ -1,7 +1,6 @@
-feat(project) Scrit to commit and to add copyright
+feat(project): scripts to create a requirements
 
-It was added two scripts. One of them is 
-dedicated to add, commit and push the
-changes made in the codes to the
-repository. The other one is dedicated
-to add copyright into codes.
+It was created a script to run
+the commands necessary to create
+or atualize the requirements. It's
+necessary that the venv is activate.
