@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # update requirements file
 if [[ "$VIRTUAL_ENV" != "" ]]
 then
