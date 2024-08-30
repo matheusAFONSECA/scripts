@@ -1,6 +1,6 @@
-feat(project): scripts to create a requirements
+feat(project): updating readme.md
 
-It was created a script to run
-the commands necessary to create
-or atualize the requirements. It's
-necessary that the venv is activate.
+It was added a explanation
+about the scripts used 
+to crate and update 
+a `requirements.txt`.

@@ -92,3 +92,19 @@ To run the script, use the following command based on your operating system:
 ```bash
 ./Python/create_and_activate_venv.sh
 ```
+
+### Updating and Creating Requirements
+
+This script automates the process of creating and updating a `requirements.txt` file for Python projects. The `requirements.txt` file is essential for running a Python project as it lists the specific versions of libraries used to build and run the project. Python libraries can undergo significant changes with each update, and functions or methods may be removed in newer versions, potentially breaking a project if different versions are used.
+
+To run the script, use the appropriate command for your operating system:
+
+- **Windows:**
+  ```shell
+  .\Python\update_and_create_requirements.ps1
+  ```
+
+- **Linux and macOS:**
+  ```bash
+  ./Python/update_and_create_requirements.sh
+  ```
