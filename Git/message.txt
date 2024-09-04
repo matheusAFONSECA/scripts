@@ -1,7 +1,6 @@
-feat(project) Scrit to commit and to add copyright
+feat(project): updating readme.md
 
-It was added two scripts. One of them is 
-dedicated to add, commit and push the
-changes made in the codes to the
-repository. The other one is dedicated
-to add copyright into codes.
+It was added a explanation
+about the scripts used 
+to crate and update 
+a `requirements.txt`.
