@@ -108,3 +108,13 @@ To run the script, use the appropriate command for your operating system:
   ```bash
   ./Python/update_and_create_requirements.sh
   ```
+
+## Authors
+
+### [Álvaro Ribeiro](https://github.com/AlvaroLucioRibeiro)
+
+Graduando do oitavo (8º) período de Engenharia de Software no Instituto Nacional de Telecomunicações (Inatel). Aprendiz Industrial em Instalação e Reparação de Redes de Computadores pelo Senai Orlando Chiarini. Já participei de uma Iniciação Científica no Laboratório de Segurança Cibernética e Internet das Coisas (CS&ILAB) com o projeto: 'Desenvolvimento Seguro de Software - Fase 01 e 02'. Atualmente estagiário do Inatel Competence Center (ICC) na área PDI SW.
+
+### [Matheus Fonseca](https://github.com/matheusAFONSECA)
+
+Graduando do oitavo (8º) período de Engenharia de Computação no Instituto Nacional de Telecomunicações (Inatel). Participei de uma Iniciação Científica no Laboratório de Segurança Cibernética e Internet das Coisas (CS&ILAB), onde, no projeto Park Here, desenvolvi habilidades em visão computacional aplicada a sistemas de estacionamento, focando na leitura de placas e identificação de veículos. Além disso, atuei como monitor nas disciplinas de Física 1, 2 e 3, auxiliando na condução de aulas práticas, elaboração de relatórios e esclarecimento de dúvidas teóricas. Atualmente, sou estagiário do Inatel Competence Center (ICC) na área PDI SW.
