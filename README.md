@@ -111,6 +111,8 @@ To run the script, use the appropriate command for your operating system:
 
 ## Authors
 
-- [Álvaro Ribeiro](https://github.com/AlvaroLucioRibeiro)
+### [Álvaro Ribeiro](https://github.com/AlvaroLucioRibeiro)
 
-- [Matheus Fonseca](https://github.com/matheusAFONSECA)
+Graduando do oitavo (8º) período de Engenharia de Software no Instituto Nacional de Telecomunicações (Inatel). Aprendiz Industrial em Instalação e Reparação de Redes de Computadores pelo Senai Orlando Chiarini. Já participei de uma Iniciação Científica no Laboratório de Segurança Cibernética e Internet das Coisas (CS&ILAB) com o projeto: 'Desenvolvimento Seguro de Software - Fase 01 e 02'. Atualmente estagiário do Inatel Competence Center (ICC) na área PDI SW.
+
+### [Matheus Fonseca](https://github.com/matheusAFONSECA)
