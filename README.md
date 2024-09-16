@@ -108,3 +108,9 @@ To run the script, use the appropriate command for your operating system:
   ```bash
   ./Python/update_and_create_requirements.sh
   ```
+
+## Authors
+
+- [Álvaro Ribeiro](https://github.com/AlvaroLucioRibeiro)
+
+- [Matheus Fonseca](https://github.com/matheusAFONSECA)

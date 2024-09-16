@@ -1,6 +1,6 @@
 feat(project): updating readme.md
 
-It was added a explanation
-about the scripts used 
-to crate and update 
-a `requirements.txt`.
+It was added a link to
+profiles of each authors.
+It still need to add a 
+description to each one.
